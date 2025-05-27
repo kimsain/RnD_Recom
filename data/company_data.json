@@ -1,0 +1,2852 @@
+[
+  {
+    "company_id": "COMP-00001",
+    "company_name": "스마트코리아",
+    "founded_date": "2000-04-06",
+    "industry_code": "E",
+    "industry_name": "수도, 하수 및 폐기물 처리, 원료 재생업",
+    "company_size": "중소기업",
+    "employees": 53,
+    "annual_revenue": 7261000000,
+    "total_assets": 7878818936.593943,
+    "total_capital": 5222576749.905613,
+    "region": "강원",
+    "main_products": [
+      "시스템",
+      "컨설팅",
+      "관리 서비스"
+    ],
+    "business_purpose": "국내 내 선도적 솔루션 개발"
+  },
+  {
+    "company_id": "COMP-00002",
+    "company_name": "글로벌파트너스",
+    "founded_date": "2006-04-05",
+    "industry_code": "D",
+    "industry_name": "전기, 가스, 증기 및 공기 조절 공급업",
+    "company_size": "대기업",
+    "employees": 7012,
+    "annual_revenue": 6654388000000,
+    "total_assets": 16246701111614.373,
+    "total_capital": 6609277409339.631,
+    "region": "전남",
+    "main_products": [
+      "시스템",
+      "관리 서비스",
+      "플랫폼"
+    ],
+    "business_purpose": "글로벌 내 특화된 서비스 개발"
+  },
+  {
+    "company_id": "COMP-00003",
+    "company_name": "시스템그룹",
+    "founded_date": "2005-04-05",
+    "industry_code": "E",
+    "industry_name": "수도, 하수 및 폐기물 처리, 원료 재생업",
+    "company_size": "중소기업",
+    "employees": 222,
+    "annual_revenue": 49506000000,
+    "total_assets": 67657108732.17312,
+    "total_capital": 38061974148.52339,
+    "region": "제주",
+    "main_products": [
+      "솔루션",
+      "관리 서비스",
+      "컨설팅"
+    ],
+    "business_purpose": "고객에게 최고의 솔루션 제공"
+  },
+  {
+    "company_id": "COMP-00004",
+    "company_name": "테크소프트",
+    "founded_date": "1998-04-07",
+    "industry_code": "M",
+    "industry_name": "전문, 과학 및 기술 서비스업",
+    "company_size": "대기업",
+    "employees": 8363,
+    "annual_revenue": 6263887000000,
+    "total_assets": 7346618084202.854,
+    "total_capital": 3623227856713.6255,
+    "region": "전남",
+    "main_products": [
+      "기술 특허 서비스",
+      "연구 개발 지원",
+      "기술 검증 서비스"
+    ],
+    "business_purpose": "전문, 과학 및 기술 서비스업 분야의 지속가능한 시스템 제공"
+  },
+  {
+    "company_id": "COMP-00005",
+    "company_name": "솔루션인포",
+    "founded_date": "2024-03-31",
+    "industry_code": "F",
+    "industry_name": "건설업",
+    "company_size": "중소기업",
+    "employees": 169,
+    "annual_revenue": 27040000000,
+    "total_assets": 38558985656.12371,
+    "total_capital": 23984428649.8468,
+    "region": "충남",
+    "main_products": [
+      "서비스",
+      "컨설팅",
+      "시스템"
+    ],
+    "business_purpose": "글로벌 내 차별화된 솔루션 개발"
+  },
+  {
+    "company_id": "COMP-00006",
+    "company_name": "인포랩스",
+    "founded_date": "2002-04-06",
+    "industry_code": "F",
+    "industry_name": "건설업",
+    "company_size": "중소기업",
+    "employees": 73,
+    "annual_revenue": 8687000000,
+    "total_assets": 12977843784.281027,
+    "total_capital": 5261104198.862858,
+    "region": "경기",
+    "main_products": [
+      "플랫폼",
+      "시스템",
+      "서비스"
+    ],
+    "business_purpose": "건설업 분야의 경쟁력 있는 제품 제공"
+  },
+  {
+    "company_id": "COMP-00007",
+    "company_name": "테크랩스",
+    "founded_date": "2014-04-03",
+    "industry_code": "C",
+    "industry_name": "제조업",
+    "company_size": "중견기업",
+    "employees": 879,
+    "annual_revenue": 232056000000,
+    "total_assets": 313420444690.6542,
+    "total_capital": 143367722607.8209,
+    "region": "대구",
+    "main_products": [
+      "전자 부품",
+      "산업용 로봇",
+      "자동화 장비"
+    ],
+    "business_purpose": "제조업 분야의 지속가능한 서비스 제공"
+  },
+  {
+    "company_id": "COMP-00008",
+    "company_name": "스마트솔루션즈",
+    "founded_date": "1999-04-07",
+    "industry_code": "M",
+    "industry_name": "전문, 과학 및 기술 서비스업",
+    "company_size": "중견기업",
+    "employees": 431,
+    "annual_revenue": 137489000000,
+    "total_assets": 245265333282.69232,
+    "total_capital": 135452944421.936,
+    "region": "인천",
+    "main_products": [
+      "R&D 컨설팅",
+      "연구 개발 지원",
+      "기술 특허 서비스"
+    ],
+    "business_purpose": "전문, 과학 및 기술 서비스업 분야의 혁신적인 플랫폼 제공"
+  },
+  {
+    "company_id": "COMP-00009",
+    "company_name": "글로벌네트웍스",
+    "founded_date": "2016-04-02",
+    "industry_code": "A",
+    "industry_name": "농업, 임업 및 어업",
+    "company_size": "스타트업",
+    "employees": 12,
+    "annual_revenue": 1956000000,
+    "total_assets": 3435338048.9489465,
+    "total_capital": 2282271120.414737,
+    "region": "광주",
+    "main_products": [
+      "서비스",
+      "솔루션",
+      "관리 서비스"
+    ],
+    "business_purpose": "산업 내 선도적 솔루션 개발"
+  },
+  {
+    "company_id": "COMP-00010",
+    "company_name": "이노베이션테크",
+    "founded_date": "2004-04-05",
+    "industry_code": "G",
+    "industry_name": "도매 및 소매업",
+    "company_size": "중견기업",
+    "employees": 981,
+    "annual_revenue": 230535000000,
+    "total_assets": 341825226056.85187,
+    "total_capital": 129286248304.75632,
+    "region": "전북",
+    "main_products": [
+      "관리 서비스",
+      "서비스",
+      "솔루션"
+    ],
+    "business_purpose": "파트너에게 맞춤형 가치 제공"
+  },
+  {
+    "company_id": "COMP-00011",
+    "company_name": "디지털테크",
+    "founded_date": "2011-04-04",
+    "industry_code": "M",
+    "industry_name": "전문, 과학 및 기술 서비스업",
+    "company_size": "대기업",
+    "employees": 7309,
+    "annual_revenue": 3727590000000,
+    "total_assets": 4460937719314.482,
+    "total_capital": 1627729120492.0452,
+    "region": "경남",
+    "main_products": [
+      "연구 개발 지원",
+      "엔지니어링 설계",
+      "기술 검증 서비스"
+    ],
+    "business_purpose": "파트너에게 맞춤형 가치 제공"
+  },
+  {
+    "company_id": "COMP-00012",
+    "company_name": "솔루션인포",
+    "founded_date": "1999-04-07",
+    "industry_code": "M",
+    "industry_name": "전문, 과학 및 기술 서비스업",
+    "company_size": "대기업",
+    "employees": 7524,
+    "annual_revenue": 4785264000000,
+    "total_assets": 11801448587110.4,
+    "total_capital": 7403724869309.706,
+    "region": "대구",
+    "main_products": [
+      "엔지니어링 설계",
+      "기술 검증 서비스",
+      "연구 개발 지원"
+    ],
+    "business_purpose": "파트너에게 혁신적인 경험 제공"
+  },
+  {
+    "company_id": "COMP-00013",
+    "company_name": "스마트인포",
+    "founded_date": "2013-04-03",
+    "industry_code": "J",
+    "industry_name": "정보통신업",
+    "company_size": "중견기업",
+    "employees": 802,
+    "annual_revenue": 286314000000,
+    "total_assets": 262929507827.08328,
+    "total_capital": 89828756897.43771,
+    "region": "충남",
+    "main_products": [
+      "모바일 앱",
+      "보안 솔루션",
+      "AI 솔루션"
+    ],
+    "business_purpose": "산업 내 혁신적 제품 개발"
+  },
+  {
+    "company_id": "COMP-00014",
+    "company_name": "글로벌소프트",
+    "founded_date": "2017-04-02",
+    "industry_code": "A",
+    "industry_name": "농업, 임업 및 어업",
+    "company_size": "대기업",
+    "employees": 4897,
+    "annual_revenue": 4740296000000,
+    "total_assets": 4425729117198.621,
+    "total_capital": 2343677483968.664,
+    "region": "인천",
+    "main_products": [
+      "플랫폼",
+      "시스템",
+      "컨설팅"
+    ],
+    "business_purpose": "고객에게 혁신적인 경험 제공"
+  },
+  {
+    "company_id": "COMP-00015",
+    "company_name": "스마트그룹",
+    "founded_date": "2007-04-05",
+    "industry_code": "M",
+    "industry_name": "전문, 과학 및 기술 서비스업",
+    "company_size": "대기업",
+    "employees": 1070,
+    "annual_revenue": 442980000000,
+    "total_assets": 634776314598.0547,
+    "total_capital": 264782748581.68527,
+    "region": "광주",
+    "main_products": [
+      "기술 검증 서비스",
+      "기술 특허 서비스",
+      "엔지니어링 설계"
+    ],
+    "business_purpose": "산업 내 특화된 기술 개발"
+  },
+  {
+    "company_id": "COMP-00016",
+    "company_name": "퓨처그룹",
+    "founded_date": "2005-04-05",
+    "industry_code": "F",
+    "industry_name": "건설업",
+    "company_size": "대기업",
+    "employees": 3705,
+    "annual_revenue": 1574625000000,
+    "total_assets": 3185616266397.601,
+    "total_capital": 971309435258.1213,
+    "region": "경남",
+    "main_products": [
+      "플랫폼",
+      "솔루션",
+      "컨설팅"
+    ],
+    "business_purpose": "파트너에게 최고의 가치 제공"
+  },
+  {
+    "company_id": "COMP-00017",
+    "company_name": "넥스트소프트",
+    "founded_date": "2014-04-03",
+    "industry_code": "C",
+    "industry_name": "제조업",
+    "company_size": "중소기업",
+    "employees": 111,
+    "annual_revenue": 21201000000,
+    "total_assets": 28922374659.93178,
+    "total_capital": 17209189786.230587,
+    "region": "부산",
+    "main_products": [
+      "전자 부품",
+      "산업용 로봇",
+      "측정 장비"
+    ],
+    "business_purpose": "시장 내 선도적 제품 개발"
+  },
+  {
+    "company_id": "COMP-00018",
+    "company_name": "넥스트네트웍스",
+    "founded_date": "2008-04-04",
+    "industry_code": "K",
+    "industry_name": "금융 및 보험업",
+    "company_size": "대기업",
+    "employees": 7321,
+    "annual_revenue": 7079407000000,
+    "total_assets": 6805165258926.712,
+    "total_capital": 4610281690359.7295,
+    "region": "부산",
+    "main_products": [
+      "시스템",
+      "컨설팅",
+      "플랫폼"
+    ],
+    "business_purpose": "금융 및 보험업 분야의 경쟁력 있는 플랫폼 제공"
+  },
+  {
+    "company_id": "COMP-00019",
+    "company_name": "시스템파트너스",
+    "founded_date": "2010-04-04",
+    "industry_code": "D",
+    "industry_name": "전기, 가스, 증기 및 공기 조절 공급업",
+    "company_size": "스타트업",
+    "employees": 11,
+    "annual_revenue": 2101000000,
+    "total_assets": 2909613688.4937224,
+    "total_capital": 1098791838.1274781,
+    "region": "부산",
+    "main_products": [
+      "관리 서비스",
+      "솔루션",
+      "컨설팅"
+    ],
+    "business_purpose": "산업 내 선도적 솔루션 개발"
+  },
+  {
+    "company_id": "COMP-00020",
+    "company_name": "디지털테크",
+    "founded_date": "2000-04-06",
+    "industry_code": "M",
+    "industry_name": "전문, 과학 및 기술 서비스업",
+    "company_size": "중견기업",
+    "employees": 478,
+    "annual_revenue": 228006000000,
+    "total_assets": 326566565675.2148,
+    "total_capital": 197504964275.3982,
+    "region": "서울",
+    "main_products": [
+      "연구 개발 지원",
+      "기술 검증 서비스",
+      "R&D 컨설팅"
+    ],
+    "business_purpose": "글로벌 내 선도적 솔루션 개발"
+  },
+  {
+    "company_id": "COMP-00021",
+    "company_name": "디지털소프트",
+    "founded_date": "2007-04-05",
+    "industry_code": "C",
+    "industry_name": "제조업",
+    "company_size": "중견기업",
+    "employees": 490,
+    "annual_revenue": 148470000000,
+    "total_assets": 206919489784.26862,
+    "total_capital": 109319906247.29935,
+    "region": "경남",
+    "main_products": [
+      "스마트 센서",
+      "전자 부품",
+      "산업용 로봇"
+    ],
+    "business_purpose": "파트너에게 맞춤형 경험 제공"
+  },
+  {
+    "company_id": "COMP-00022",
+    "company_name": "인포코리아",
+    "founded_date": "2018-04-02",
+    "industry_code": "A",
+    "industry_name": "농업, 임업 및 어업",
+    "company_size": "중견기업",
+    "employees": 848,
+    "annual_revenue": 362096000000,
+    "total_assets": 762531489457.9615,
+    "total_capital": 256315534817.28024,
+    "region": "경기",
+    "main_products": [
+      "시스템",
+      "서비스",
+      "컨설팅"
+    ],
+    "business_purpose": "국내 내 특화된 서비스 개발"
+  },
+  {
+    "company_id": "COMP-00023",
+    "company_name": "넥스트시스템즈",
+    "founded_date": "2011-04-04",
+    "industry_code": "A",
+    "industry_name": "농업, 임업 및 어업",
+    "company_size": "대기업",
+    "employees": 8694,
+    "annual_revenue": 8641836000000,
+    "total_assets": 12469378870179.146,
+    "total_capital": 4746539664315.439,
+    "region": "충남",
+    "main_products": [
+      "솔루션",
+      "컨설팅",
+      "서비스"
+    ],
+    "business_purpose": "이해관계자에게 맞춤형 가치 제공"
+  },
+  {
+    "company_id": "COMP-00024",
+    "company_name": "솔루션테크",
+    "founded_date": "2013-04-03",
+    "industry_code": "F",
+    "industry_name": "건설업",
+    "company_size": "대기업",
+    "employees": 1973,
+    "annual_revenue": 1957216000000,
+    "total_assets": 2525219378078.693,
+    "total_capital": 1056838688208.3087,
+    "region": "울산",
+    "main_products": [
+      "플랫폼",
+      "관리 서비스",
+      "서비스"
+    ],
+    "business_purpose": "이해관계자에게 혁신적인 가치 제공"
+  },
+  {
+    "company_id": "COMP-00025",
+    "company_name": "솔루션인포",
+    "founded_date": "1996-04-07",
+    "industry_code": "A",
+    "industry_name": "농업, 임업 및 어업",
+    "company_size": "중소기업",
+    "employees": 106,
+    "annual_revenue": 23850000000,
+    "total_assets": 27525776575.787453,
+    "total_capital": 9336604102.406694,
+    "region": "충북",
+    "main_products": [
+      "관리 서비스",
+      "솔루션",
+      "컨설팅"
+    ],
+    "business_purpose": "농업, 임업 및 어업 분야의 지속가능한 솔루션 제공"
+  },
+  {
+    "company_id": "COMP-00026",
+    "company_name": "테크시스템즈",
+    "founded_date": "2024-03-31",
+    "industry_code": "J",
+    "industry_name": "정보통신업",
+    "company_size": "중소기업",
+    "employees": 73,
+    "annual_revenue": 9709000000,
+    "total_assets": 8310375594.390978,
+    "total_capital": 4316845148.097317,
+    "region": "경기",
+    "main_products": [
+      "IoT 플랫폼",
+      "AI 솔루션",
+      "보안 솔루션"
+    ],
+    "business_purpose": "이해관계자에게 맞춤형 솔루션 제공"
+  },
+  {
+    "company_id": "COMP-00027",
+    "company_name": "퓨처인포",
+    "founded_date": "2000-04-06",
+    "industry_code": "J",
+    "industry_name": "정보통신업",
+    "company_size": "대기업",
+    "employees": 2138,
+    "annual_revenue": 1838680000000,
+    "total_assets": 4144762397177.549,
+    "total_capital": 2027392559354.2754,
+    "region": "전남",
+    "main_products": [
+      "클라우드 서비스",
+      "보안 솔루션",
+      "AI 솔루션"
+    ],
+    "business_purpose": "시장 내 특화된 기술 개발"
+  },
+  {
+    "company_id": "COMP-00028",
+    "company_name": "글로벌네트웍스",
+    "founded_date": "2006-04-05",
+    "industry_code": "E",
+    "industry_name": "수도, 하수 및 폐기물 처리, 원료 재생업",
+    "company_size": "중견기업",
+    "employees": 760,
+    "annual_revenue": 162640000000,
+    "total_assets": 362658553203.09576,
+    "total_capital": 226412248978.07843,
+    "region": "인천",
+    "main_products": [
+      "솔루션",
+      "서비스",
+      "시스템"
+    ],
+    "business_purpose": "고객에게 최고의 솔루션 제공"
+  },
+  {
+    "company_id": "COMP-00029",
+    "company_name": "테크소프트",
+    "founded_date": "2004-04-05",
+    "industry_code": "G",
+    "industry_name": "도매 및 소매업",
+    "company_size": "스타트업",
+    "employees": 10,
+    "annual_revenue": 1070000000,
+    "total_assets": 872879939.4850246,
+    "total_capital": 465295376.13067424,
+    "region": "경남",
+    "main_products": [
+      "컨설팅",
+      "솔루션",
+      "관리 서비스"
+    ],
+    "business_purpose": "도매 및 소매업 분야의 효율적인 플랫폼 제공"
+  },
+  {
+    "company_id": "COMP-00030",
+    "company_name": "글로벌솔루션즈",
+    "founded_date": "2018-04-02",
+    "industry_code": "K",
+    "industry_name": "금융 및 보험업",
+    "company_size": "대기업",
+    "employees": 9587,
+    "annual_revenue": 6634204000000,
+    "total_assets": 9205916484549.676,
+    "total_capital": 5098906974201.603,
+    "region": "부산",
+    "main_products": [
+      "플랫폼",
+      "관리 서비스",
+      "솔루션"
+    ],
+    "business_purpose": "산업 내 특화된 서비스 개발"
+  },
+  {
+    "company_id": "COMP-00031",
+    "company_name": "인포랩스",
+    "founded_date": "2014-04-03",
+    "industry_code": "K",
+    "industry_name": "금융 및 보험업",
+    "company_size": "스타트업",
+    "employees": 27,
+    "annual_revenue": 4104000000,
+    "total_assets": 9694833848.960669,
+    "total_capital": 5889867647.813258,
+    "region": "경기",
+    "main_products": [
+      "시스템",
+      "관리 서비스",
+      "플랫폼"
+    ],
+    "business_purpose": "고객에게 최고의 솔루션 제공"
+  },
+  {
+    "company_id": "COMP-00032",
+    "company_name": "인포시스템즈",
+    "founded_date": "2023-04-01",
+    "industry_code": "B",
+    "industry_name": "광업",
+    "company_size": "스타트업",
+    "employees": 8,
+    "annual_revenue": 1464000000,
+    "total_assets": 2800034053.1834965,
+    "total_capital": 1564955094.1458366,
+    "region": "광주",
+    "main_products": [
+      "솔루션",
+      "컨설팅",
+      "서비스"
+    ],
+    "business_purpose": "광업 분야의 경쟁력 있는 솔루션 제공"
+  },
+  {
+    "company_id": "COMP-00033",
+    "company_name": "시스템테크",
+    "founded_date": "1999-04-07",
+    "industry_code": "F",
+    "industry_name": "건설업",
+    "company_size": "스타트업",
+    "employees": 45,
+    "annual_revenue": 7425000000,
+    "total_assets": 15600540173.35806,
+    "total_capital": 7039544602.746999,
+    "region": "광주",
+    "main_products": [
+      "컨설팅",
+      "솔루션",
+      "플랫폼"
+    ],
+    "business_purpose": "산업 내 차별화된 솔루션 개발"
+  },
+  {
+    "company_id": "COMP-00034",
+    "company_name": "퓨처인포",
+    "founded_date": "2003-04-06",
+    "industry_code": "B",
+    "industry_name": "광업",
+    "company_size": "중소기업",
+    "employees": 256,
+    "annual_revenue": 54784000000,
+    "total_assets": 132077377366.38138,
+    "total_capital": 49749110619.732994,
+    "region": "경북",
+    "main_products": [
+      "시스템",
+      "관리 서비스",
+      "서비스"
+    ],
+    "business_purpose": "파트너에게 최고의 성과 제공"
+  },
+  {
+    "company_id": "COMP-00035",
+    "company_name": "솔루션파트너스",
+    "founded_date": "1997-04-07",
+    "industry_code": "K",
+    "industry_name": "금융 및 보험업",
+    "company_size": "중소기업",
+    "employees": 60,
+    "annual_revenue": 13500000000,
+    "total_assets": 27811054138.693253,
+    "total_capital": 10047920966.545797,
+    "region": "전남",
+    "main_products": [
+      "컨설팅",
+      "시스템",
+      "솔루션"
+    ],
+    "business_purpose": "이해관계자에게 최적화된 솔루션 제공"
+  },
+  {
+    "company_id": "COMP-00036",
+    "company_name": "테크그룹",
+    "founded_date": "2011-04-04",
+    "industry_code": "F",
+    "industry_name": "건설업",
+    "company_size": "대기업",
+    "employees": 5077,
+    "annual_revenue": 4523607000000,
+    "total_assets": 6563069278412.301,
+    "total_capital": 2606344788862.5884,
+    "region": "대전",
+    "main_products": [
+      "컨설팅",
+      "서비스",
+      "플랫폼"
+    ],
+    "business_purpose": "국내 내 선도적 제품 개발"
+  },
+  {
+    "company_id": "COMP-00037",
+    "company_name": "시스템테크",
+    "founded_date": "2009-04-04",
+    "industry_code": "E",
+    "industry_name": "수도, 하수 및 폐기물 처리, 원료 재생업",
+    "company_size": "중소기업",
+    "employees": 259,
+    "annual_revenue": 53613000000,
+    "total_assets": 126974493876.60982,
+    "total_capital": 78809142894.2738,
+    "region": "광주",
+    "main_products": [
+      "플랫폼",
+      "관리 서비스",
+      "솔루션"
+    ],
+    "business_purpose": "수도, 하수 및 폐기물 처리, 원료 재생업 분야의 고품질 제품 제공"
+  },
+  {
+    "company_id": "COMP-00038",
+    "company_name": "넥스트솔루션즈",
+    "founded_date": "2020-04-01",
+    "industry_code": "C",
+    "industry_name": "제조업",
+    "company_size": "대기업",
+    "employees": 7168,
+    "annual_revenue": 4350976000000,
+    "total_assets": 10401185146002.629,
+    "total_capital": 4386297970941.476,
+    "region": "울산",
+    "main_products": [
+      "전자 부품",
+      "측정 장비",
+      "산업용 로봇"
+    ],
+    "business_purpose": "파트너에게 최적화된 솔루션 제공"
+  },
+  {
+    "company_id": "COMP-00039",
+    "company_name": "이노베이션파트너스",
+    "founded_date": "2023-04-01",
+    "industry_code": "K",
+    "industry_name": "금융 및 보험업",
+    "company_size": "중소기업",
+    "employees": 290,
+    "annual_revenue": 71340000000,
+    "total_assets": 171264511038.44858,
+    "total_capital": 64174268209.85257,
+    "region": "경남",
+    "main_products": [
+      "시스템",
+      "플랫폼",
+      "컨설팅"
+    ],
+    "business_purpose": "금융 및 보험업 분야의 경쟁력 있는 플랫폼 제공"
+  },
+  {
+    "company_id": "COMP-00040",
+    "company_name": "넥스트소프트",
+    "founded_date": "2011-04-04",
+    "industry_code": "G",
+    "industry_name": "도매 및 소매업",
+    "company_size": "중견기업",
+    "employees": 414,
+    "annual_revenue": 176364000000,
+    "total_assets": 397105904517.03436,
+    "total_capital": 224133584644.61774,
+    "region": "경남",
+    "main_products": [
+      "관리 서비스",
+      "시스템",
+      "플랫폼"
+    ],
+    "business_purpose": "파트너에게 혁신적인 솔루션 제공"
+  },
+  {
+    "company_id": "COMP-00041",
+    "company_name": "넥스트소프트",
+    "founded_date": "2022-04-01",
+    "industry_code": "A",
+    "industry_name": "농업, 임업 및 어업",
+    "company_size": "중견기업",
+    "employees": 323,
+    "annual_revenue": 107559000000,
+    "total_assets": 248296180739.64407,
+    "total_capital": 143958248911.49088,
+    "region": "광주",
+    "main_products": [
+      "관리 서비스",
+      "컨설팅",
+      "시스템"
+    ],
+    "business_purpose": "국내 내 특화된 제품 개발"
+  },
+  {
+    "company_id": "COMP-00042",
+    "company_name": "시스템코리아",
+    "founded_date": "2009-04-04",
+    "industry_code": "J",
+    "industry_name": "정보통신업",
+    "company_size": "중소기업",
+    "employees": 166,
+    "annual_revenue": 41334000000,
+    "total_assets": 97631753469.82503,
+    "total_capital": 43083880343.12738,
+    "region": "제주",
+    "main_products": [
+      "보안 솔루션",
+      "데이터 분석 플랫폼",
+      "모바일 앱"
+    ],
+    "business_purpose": "산업 내 혁신적 서비스 개발"
+  },
+  {
+    "company_id": "COMP-00043",
+    "company_name": "시스템네트웍스",
+    "founded_date": "2002-04-06",
+    "industry_code": "D",
+    "industry_name": "전기, 가스, 증기 및 공기 조절 공급업",
+    "company_size": "스타트업",
+    "employees": 11,
+    "annual_revenue": 649000000,
+    "total_assets": 532739945.31541246,
+    "total_capital": 179047791.95253506,
+    "region": "광주",
+    "main_products": [
+      "솔루션",
+      "서비스",
+      "관리 서비스"
+    ],
+    "business_purpose": "전기, 가스, 증기 및 공기 조절 공급업 분야의 효율적인 서비스 제공"
+  },
+  {
+    "company_id": "COMP-00044",
+    "company_name": "퓨처인포",
+    "founded_date": "2021-04-01",
+    "industry_code": "E",
+    "industry_name": "수도, 하수 및 폐기물 처리, 원료 재생업",
+    "company_size": "중견기업",
+    "employees": 494,
+    "annual_revenue": 223782000000,
+    "total_assets": 344187755877.8668,
+    "total_capital": 200873336005.59525,
+    "region": "부산",
+    "main_products": [
+      "서비스",
+      "플랫폼",
+      "솔루션"
+    ],
+    "business_purpose": "이해관계자에게 맞춤형 성과 제공"
+  },
+  {
+    "company_id": "COMP-00045",
+    "company_name": "테크파트너스",
+    "founded_date": "1995-04-08",
+    "industry_code": "D",
+    "industry_name": "전기, 가스, 증기 및 공기 조절 공급업",
+    "company_size": "대기업",
+    "employees": 2447,
+    "annual_revenue": 1184348000000,
+    "total_assets": 2275360628279.9243,
+    "total_capital": 1267162580418.7893,
+    "region": "충남",
+    "main_products": [
+      "플랫폼",
+      "관리 서비스",
+      "솔루션"
+    ],
+    "business_purpose": "전기, 가스, 증기 및 공기 조절 공급업 분야의 효율적인 제품 제공"
+  },
+  {
+    "company_id": "COMP-00046",
+    "company_name": "넥스트솔루션즈",
+    "founded_date": "1996-04-07",
+    "industry_code": "D",
+    "industry_name": "전기, 가스, 증기 및 공기 조절 공급업",
+    "company_size": "중소기업",
+    "employees": 102,
+    "annual_revenue": 18768000000,
+    "total_assets": 29332674872.659958,
+    "total_capital": 15021877727.084545,
+    "region": "서울",
+    "main_products": [
+      "솔루션",
+      "플랫폼",
+      "관리 서비스"
+    ],
+    "business_purpose": "전기, 가스, 증기 및 공기 조절 공급업 분야의 경쟁력 있는 시스템 제공"
+  },
+  {
+    "company_id": "COMP-00047",
+    "company_name": "퓨처네트웍스",
+    "founded_date": "2001-04-06",
+    "industry_code": "G",
+    "industry_name": "도매 및 소매업",
+    "company_size": "대기업",
+    "employees": 6363,
+    "annual_revenue": 5739426000000,
+    "total_assets": 5232929838981.071,
+    "total_capital": 3229828861826.4053,
+    "region": "세종",
+    "main_products": [
+      "플랫폼",
+      "컨설팅",
+      "관리 서비스"
+    ],
+    "business_purpose": "도매 및 소매업 분야의 혁신적인 시스템 제공"
+  },
+  {
+    "company_id": "COMP-00048",
+    "company_name": "테크소프트",
+    "founded_date": "1996-04-07",
+    "industry_code": "M",
+    "industry_name": "전문, 과학 및 기술 서비스업",
+    "company_size": "중견기업",
+    "employees": 350,
+    "annual_revenue": 141400000000,
+    "total_assets": 212558774972.0662,
+    "total_capital": 102710080796.26332,
+    "region": "전남",
+    "main_products": [
+      "R&D 컨설팅",
+      "기술 검증 서비스",
+      "엔지니어링 설계"
+    ],
+    "business_purpose": "파트너에게 최적화된 성과 제공"
+  },
+  {
+    "company_id": "COMP-00049",
+    "company_name": "솔루션코리아",
+    "founded_date": "2018-04-02",
+    "industry_code": "E",
+    "industry_name": "수도, 하수 및 폐기물 처리, 원료 재생업",
+    "company_size": "중견기업",
+    "employees": 937,
+    "annual_revenue": 191148000000,
+    "total_assets": 158427515493.28748,
+    "total_capital": 55136432740.38707,
+    "region": "광주",
+    "main_products": [
+      "관리 서비스",
+      "플랫폼",
+      "서비스"
+    ],
+    "business_purpose": "이해관계자에게 혁신적인 솔루션 제공"
+  },
+  {
+    "company_id": "COMP-00050",
+    "company_name": "솔루션네트웍스",
+    "founded_date": "2019-04-02",
+    "industry_code": "A",
+    "industry_name": "농업, 임업 및 어업",
+    "company_size": "스타트업",
+    "employees": 31,
+    "annual_revenue": 4061000000,
+    "total_assets": 8864395816.320847,
+    "total_capital": 5643460331.503664,
+    "region": "강원",
+    "main_products": [
+      "컨설팅",
+      "플랫폼",
+      "솔루션"
+    ],
+    "business_purpose": "고객에게 혁신적인 경험 제공"
+  },
+  {
+    "company_id": "COMP-00051",
+    "company_name": "퓨처소프트",
+    "founded_date": "2002-04-06",
+    "industry_code": "E",
+    "industry_name": "수도, 하수 및 폐기물 처리, 원료 재생업",
+    "company_size": "대기업",
+    "employees": 9730,
+    "annual_revenue": 6207740000000,
+    "total_assets": 13169777141087.645,
+    "total_capital": 5687212728806.402,
+    "region": "강원",
+    "main_products": [
+      "플랫폼",
+      "서비스",
+      "관리 서비스"
+    ],
+    "business_purpose": "수도, 하수 및 폐기물 처리, 원료 재생업 분야의 경쟁력 있는 제품 제공"
+  },
+  {
+    "company_id": "COMP-00052",
+    "company_name": "디지털랩스",
+    "founded_date": "2010-04-04",
+    "industry_code": "D",
+    "industry_name": "전기, 가스, 증기 및 공기 조절 공급업",
+    "company_size": "중견기업",
+    "employees": 788,
+    "annual_revenue": 160752000000,
+    "total_assets": 150840972130.2963,
+    "total_capital": 64126869186.93039,
+    "region": "충북",
+    "main_products": [
+      "서비스",
+      "컨설팅",
+      "플랫폼"
+    ],
+    "business_purpose": "이해관계자에게 최고의 가치 제공"
+  },
+  {
+    "company_id": "COMP-00053",
+    "company_name": "테크그룹",
+    "founded_date": "2016-04-02",
+    "industry_code": "E",
+    "industry_name": "수도, 하수 및 폐기물 처리, 원료 재생업",
+    "company_size": "중소기업",
+    "employees": 163,
+    "annual_revenue": 20864000000,
+    "total_assets": 42871542643.90958,
+    "total_capital": 18174882858.968643,
+    "region": "제주",
+    "main_products": [
+      "플랫폼",
+      "컨설팅",
+      "솔루션"
+    ],
+    "business_purpose": "수도, 하수 및 폐기물 처리, 원료 재생업 분야의 효율적인 제품 제공"
+  },
+  {
+    "company_id": "COMP-00054",
+    "company_name": "솔루션솔루션즈",
+    "founded_date": "2021-04-01",
+    "industry_code": "G",
+    "industry_name": "도매 및 소매업",
+    "company_size": "중견기업",
+    "employees": 821,
+    "annual_revenue": 285708000000,
+    "total_assets": 700562244453.9048,
+    "total_capital": 437913765883.45435,
+    "region": "서울",
+    "main_products": [
+      "컨설팅",
+      "솔루션",
+      "서비스"
+    ],
+    "business_purpose": "이해관계자에게 혁신적인 성과 제공"
+  },
+  {
+    "company_id": "COMP-00055",
+    "company_name": "솔루션코리아",
+    "founded_date": "2006-04-05",
+    "industry_code": "J",
+    "industry_name": "정보통신업",
+    "company_size": "스타트업",
+    "employees": 13,
+    "annual_revenue": 1651000000,
+    "total_assets": 1640748670.3370547,
+    "total_capital": 617606727.7174168,
+    "region": "강원",
+    "main_products": [
+      "AI 솔루션",
+      "IoT 플랫폼",
+      "모바일 앱"
+    ],
+    "business_purpose": "정보통신업 분야의 지속가능한 솔루션 제공"
+  },
+  {
+    "company_id": "COMP-00056",
+    "company_name": "인포파트너스",
+    "founded_date": "2016-04-02",
+    "industry_code": "M",
+    "industry_name": "전문, 과학 및 기술 서비스업",
+    "company_size": "중소기업",
+    "employees": 221,
+    "annual_revenue": 41769000000,
+    "total_assets": 91807685696.83894,
+    "total_capital": 47320273127.44352,
+    "region": "대구",
+    "main_products": [
+      "기술 특허 서비스",
+      "연구 개발 지원",
+      "기술 검증 서비스"
+    ],
+    "business_purpose": "국내 내 차별화된 서비스 개발"
+  },
+  {
+    "company_id": "COMP-00057",
+    "company_name": "넥스트소프트",
+    "founded_date": "2003-04-06",
+    "industry_code": "K",
+    "industry_name": "금융 및 보험업",
+    "company_size": "대기업",
+    "employees": 4036,
+    "annual_revenue": 2131008000000,
+    "total_assets": 2309196861385.1274,
+    "total_capital": 1430784458036.138,
+    "region": "경남",
+    "main_products": [
+      "플랫폼",
+      "서비스",
+      "관리 서비스"
+    ],
+    "business_purpose": "고객에게 맞춤형 성과 제공"
+  },
+  {
+    "company_id": "COMP-00058",
+    "company_name": "시스템코리아",
+    "founded_date": "2021-04-01",
+    "industry_code": "J",
+    "industry_name": "정보통신업",
+    "company_size": "중소기업",
+    "employees": 146,
+    "annual_revenue": 16060000000,
+    "total_assets": 13744387096.451862,
+    "total_capital": 7793629296.95876,
+    "region": "대전",
+    "main_products": [
+      "IoT 플랫폼",
+      "데이터 분석 플랫폼",
+      "모바일 앱"
+    ],
+    "business_purpose": "고객에게 최고의 경험 제공"
+  },
+  {
+    "company_id": "COMP-00059",
+    "company_name": "인포그룹",
+    "founded_date": "1996-04-07",
+    "industry_code": "K",
+    "industry_name": "금융 및 보험업",
+    "company_size": "중견기업",
+    "employees": 764,
+    "annual_revenue": 235312000000,
+    "total_assets": 373324830502.29785,
+    "total_capital": 189400805239.32022,
+    "region": "제주",
+    "main_products": [
+      "플랫폼",
+      "시스템",
+      "솔루션"
+    ],
+    "business_purpose": "금융 및 보험업 분야의 경쟁력 있는 서비스 제공"
+  },
+  {
+    "company_id": "COMP-00060",
+    "company_name": "퓨처랩스",
+    "founded_date": "2015-04-03",
+    "industry_code": "E",
+    "industry_name": "수도, 하수 및 폐기물 처리, 원료 재생업",
+    "company_size": "대기업",
+    "employees": 1804,
+    "annual_revenue": 887568000000,
+    "total_assets": 1691183280396.762,
+    "total_capital": 642736408483.7881,
+    "region": "강원",
+    "main_products": [
+      "컨설팅",
+      "관리 서비스",
+      "시스템"
+    ],
+    "business_purpose": "시장 내 차별화된 기술 개발"
+  },
+  {
+    "company_id": "COMP-00061",
+    "company_name": "테크소프트",
+    "founded_date": "2004-04-05",
+    "industry_code": "A",
+    "industry_name": "농업, 임업 및 어업",
+    "company_size": "중소기업",
+    "employees": 92,
+    "annual_revenue": 19964000000,
+    "total_assets": 45623725207.397316,
+    "total_capital": 21297749863.37655,
+    "region": "울산",
+    "main_products": [
+      "시스템",
+      "플랫폼",
+      "솔루션"
+    ],
+    "business_purpose": "농업, 임업 및 어업 분야의 효율적인 솔루션 제공"
+  },
+  {
+    "company_id": "COMP-00062",
+    "company_name": "글로벌시스템즈",
+    "founded_date": "2003-04-06",
+    "industry_code": "D",
+    "industry_name": "전기, 가스, 증기 및 공기 조절 공급업",
+    "company_size": "대기업",
+    "employees": 6422,
+    "annual_revenue": 5310994000000,
+    "total_assets": 10263371896823.816,
+    "total_capital": 6237018451824.588,
+    "region": "세종",
+    "main_products": [
+      "관리 서비스",
+      "솔루션",
+      "서비스"
+    ],
+    "business_purpose": "전기, 가스, 증기 및 공기 조절 공급업 분야의 고품질 제품 제공"
+  },
+  {
+    "company_id": "COMP-00063",
+    "company_name": "솔루션파트너스",
+    "founded_date": "2001-04-06",
+    "industry_code": "G",
+    "industry_name": "도매 및 소매업",
+    "company_size": "대기업",
+    "employees": 6820,
+    "annual_revenue": 2462020000000,
+    "total_assets": 5514122885554.696,
+    "total_capital": 3239863296919.055,
+    "region": "충북",
+    "main_products": [
+      "컨설팅",
+      "시스템",
+      "플랫폼"
+    ],
+    "business_purpose": "국내 내 혁신적 기술 개발"
+  },
+  {
+    "company_id": "COMP-00064",
+    "company_name": "테크랩스",
+    "founded_date": "2006-04-05",
+    "industry_code": "D",
+    "industry_name": "전기, 가스, 증기 및 공기 조절 공급업",
+    "company_size": "중소기업",
+    "employees": 96,
+    "annual_revenue": 23040000000,
+    "total_assets": 30939113899.048344,
+    "total_capital": 18144780365.401108,
+    "region": "서울",
+    "main_products": [
+      "관리 서비스",
+      "솔루션",
+      "컨설팅"
+    ],
+    "business_purpose": "전기, 가스, 증기 및 공기 조절 공급업 분야의 경쟁력 있는 시스템 제공"
+  },
+  {
+    "company_id": "COMP-00065",
+    "company_name": "글로벌소프트",
+    "founded_date": "2000-04-06",
+    "industry_code": "E",
+    "industry_name": "수도, 하수 및 폐기물 처리, 원료 재생업",
+    "company_size": "스타트업",
+    "employees": 32,
+    "annual_revenue": 4960000000,
+    "total_assets": 11115640007.012075,
+    "total_capital": 7480417206.89028,
+    "region": "경기",
+    "main_products": [
+      "컨설팅",
+      "플랫폼",
+      "솔루션"
+    ],
+    "business_purpose": "수도, 하수 및 폐기물 처리, 원료 재생업 분야의 효율적인 시스템 제공"
+  },
+  {
+    "company_id": "COMP-00066",
+    "company_name": "테크시스템즈",
+    "founded_date": "1997-04-07",
+    "industry_code": "A",
+    "industry_name": "농업, 임업 및 어업",
+    "company_size": "스타트업",
+    "employees": 36,
+    "annual_revenue": 6300000000,
+    "total_assets": 7508466777.3613,
+    "total_capital": 2858022503.593942,
+    "region": "세종",
+    "main_products": [
+      "플랫폼",
+      "컨설팅",
+      "서비스"
+    ],
+    "business_purpose": "국내 내 선도적 솔루션 개발"
+  },
+  {
+    "company_id": "COMP-00067",
+    "company_name": "인포테크",
+    "founded_date": "2023-04-01",
+    "industry_code": "C",
+    "industry_name": "제조업",
+    "company_size": "대기업",
+    "employees": 7336,
+    "annual_revenue": 5590032000000,
+    "total_assets": 12445576351463.045,
+    "total_capital": 4368776310702.697,
+    "region": "대전",
+    "main_products": [
+      "측정 장비",
+      "자동화 장비",
+      "제어 시스템"
+    ],
+    "business_purpose": "제조업 분야의 경쟁력 있는 서비스 제공"
+  },
+  {
+    "company_id": "COMP-00068",
+    "company_name": "퓨처소프트",
+    "founded_date": "2022-04-01",
+    "industry_code": "C",
+    "industry_name": "제조업",
+    "company_size": "대기업",
+    "employees": 9267,
+    "annual_revenue": 3632664000000,
+    "total_assets": 7951834036797.579,
+    "total_capital": 3036252662404.942,
+    "region": "인천",
+    "main_products": [
+      "제어 시스템",
+      "스마트 센서",
+      "측정 장비"
+    ],
+    "business_purpose": "제조업 분야의 고품질 제품 제공"
+  },
+  {
+    "company_id": "COMP-00069",
+    "company_name": "솔루션그룹",
+    "founded_date": "2000-04-06",
+    "industry_code": "G",
+    "industry_name": "도매 및 소매업",
+    "company_size": "대기업",
+    "employees": 4176,
+    "annual_revenue": 2777040000000,
+    "total_assets": 6545608503126.006,
+    "total_capital": 2754618001455.1924,
+    "region": "제주",
+    "main_products": [
+      "컨설팅",
+      "서비스",
+      "플랫폼"
+    ],
+    "business_purpose": "국내 내 혁신적 서비스 개발"
+  },
+  {
+    "company_id": "COMP-00070",
+    "company_name": "글로벌그룹",
+    "founded_date": "1995-04-08",
+    "industry_code": "E",
+    "industry_name": "수도, 하수 및 폐기물 처리, 원료 재생업",
+    "company_size": "대기업",
+    "employees": 8044,
+    "annual_revenue": 7537228000000,
+    "total_assets": 10173624775337.348,
+    "total_capital": 5866996295678.849,
+    "region": "부산",
+    "main_products": [
+      "서비스",
+      "솔루션",
+      "플랫폼"
+    ],
+    "business_purpose": "산업 내 혁신적 솔루션 개발"
+  },
+  {
+    "company_id": "COMP-00071",
+    "company_name": "솔루션코리아",
+    "founded_date": "2004-04-05",
+    "industry_code": "D",
+    "industry_name": "전기, 가스, 증기 및 공기 조절 공급업",
+    "company_size": "중견기업",
+    "employees": 540,
+    "annual_revenue": 122040000000,
+    "total_assets": 101984238293.98111,
+    "total_capital": 67980588762.5077,
+    "region": "부산",
+    "main_products": [
+      "컨설팅",
+      "관리 서비스",
+      "시스템"
+    ],
+    "business_purpose": "이해관계자에게 최고의 경험 제공"
+  },
+  {
+    "company_id": "COMP-00072",
+    "company_name": "인포네트웍스",
+    "founded_date": "2013-04-03",
+    "industry_code": "C",
+    "industry_name": "제조업",
+    "company_size": "중소기업",
+    "employees": 137,
+    "annual_revenue": 33154000000,
+    "total_assets": 77417184402.26573,
+    "total_capital": 36251714656.86392,
+    "region": "대구",
+    "main_products": [
+      "전자 부품",
+      "스마트 센서",
+      "측정 장비"
+    ],
+    "business_purpose": "제조업 분야의 효율적인 서비스 제공"
+  },
+  {
+    "company_id": "COMP-00073",
+    "company_name": "글로벌그룹",
+    "founded_date": "2020-04-01",
+    "industry_code": "F",
+    "industry_name": "건설업",
+    "company_size": "대기업",
+    "employees": 9416,
+    "annual_revenue": 4849240000000,
+    "total_assets": 9767378069261.064,
+    "total_capital": 3751914936613.691,
+    "region": "부산",
+    "main_products": [
+      "솔루션",
+      "컨설팅",
+      "관리 서비스"
+    ],
+    "business_purpose": "글로벌 내 특화된 제품 개발"
+  },
+  {
+    "company_id": "COMP-00074",
+    "company_name": "넥스트네트웍스",
+    "founded_date": "2019-04-02",
+    "industry_code": "M",
+    "industry_name": "전문, 과학 및 기술 서비스업",
+    "company_size": "중견기업",
+    "employees": 995,
+    "annual_revenue": 226860000000,
+    "total_assets": 326362384950.89545,
+    "total_capital": 123811473111.58295,
+    "region": "강원",
+    "main_products": [
+      "R&D 컨설팅",
+      "연구 개발 지원",
+      "기술 검증 서비스"
+    ],
+    "business_purpose": "전문, 과학 및 기술 서비스업 분야의 효율적인 시스템 제공"
+  },
+  {
+    "company_id": "COMP-00075",
+    "company_name": "넥스트인포",
+    "founded_date": "2000-04-06",
+    "industry_code": "J",
+    "industry_name": "정보통신업",
+    "company_size": "중견기업",
+    "employees": 793,
+    "annual_revenue": 292617000000,
+    "total_assets": 306582606234.2608,
+    "total_capital": 195831004470.10165,
+    "region": "전북",
+    "main_products": [
+      "클라우드 서비스",
+      "보안 솔루션",
+      "AI 솔루션"
+    ],
+    "business_purpose": "고객에게 맞춤형 솔루션 제공"
+  },
+  {
+    "company_id": "COMP-00076",
+    "company_name": "글로벌시스템즈",
+    "founded_date": "2020-04-01",
+    "industry_code": "F",
+    "industry_name": "건설업",
+    "company_size": "중소기업",
+    "employees": 232,
+    "annual_revenue": 41296000000,
+    "total_assets": 52226065875.280914,
+    "total_capital": 27423926096.069847,
+    "region": "대전",
+    "main_products": [
+      "서비스",
+      "관리 서비스",
+      "플랫폼"
+    ],
+    "business_purpose": "산업 내 특화된 기술 개발"
+  },
+  {
+    "company_id": "COMP-00077",
+    "company_name": "솔루션솔루션즈",
+    "founded_date": "2003-04-06",
+    "industry_code": "G",
+    "industry_name": "도매 및 소매업",
+    "company_size": "중견기업",
+    "employees": 972,
+    "annual_revenue": 404352000000,
+    "total_assets": 994721696020.023,
+    "total_capital": 642799778276.1307,
+    "region": "경북",
+    "main_products": [
+      "솔루션",
+      "시스템",
+      "플랫폼"
+    ],
+    "business_purpose": "글로벌 내 선도적 제품 개발"
+  },
+  {
+    "company_id": "COMP-00078",
+    "company_name": "퓨처파트너스",
+    "founded_date": "2005-04-05",
+    "industry_code": "F",
+    "industry_name": "건설업",
+    "company_size": "중견기업",
+    "employees": 475,
+    "annual_revenue": 120650000000,
+    "total_assets": 124650307280.84166,
+    "total_capital": 67921286423.497795,
+    "region": "충남",
+    "main_products": [
+      "시스템",
+      "서비스",
+      "관리 서비스"
+    ],
+    "business_purpose": "고객에게 최고의 경험 제공"
+  },
+  {
+    "company_id": "COMP-00079",
+    "company_name": "스마트랩스",
+    "founded_date": "2022-04-01",
+    "industry_code": "B",
+    "industry_name": "광업",
+    "company_size": "중소기업",
+    "employees": 165,
+    "annual_revenue": 30855000000,
+    "total_assets": 61361599987.86083,
+    "total_capital": 29346500810.15412,
+    "region": "전남",
+    "main_products": [
+      "플랫폼",
+      "컨설팅",
+      "시스템"
+    ],
+    "business_purpose": "광업 분야의 고품질 시스템 제공"
+  },
+  {
+    "company_id": "COMP-00080",
+    "company_name": "인포소프트",
+    "founded_date": "2010-04-04",
+    "industry_code": "C",
+    "industry_name": "제조업",
+    "company_size": "중견기업",
+    "employees": 411,
+    "annual_revenue": 187827000000,
+    "total_assets": 445369748330.4675,
+    "total_capital": 147013923524.7755,
+    "region": "경남",
+    "main_products": [
+      "제어 시스템",
+      "산업용 로봇",
+      "측정 장비"
+    ],
+    "business_purpose": "이해관계자에게 최적화된 성과 제공"
+  },
+  {
+    "company_id": "COMP-00081",
+    "company_name": "넥스트랩스",
+    "founded_date": "2000-04-06",
+    "industry_code": "C",
+    "industry_name": "제조업",
+    "company_size": "중견기업",
+    "employees": 917,
+    "annual_revenue": 224665000000,
+    "total_assets": 378483216792.43463,
+    "total_capital": 187268077032.90872,
+    "region": "부산",
+    "main_products": [
+      "측정 장비",
+      "전자 부품",
+      "제어 시스템"
+    ],
+    "business_purpose": "이해관계자에게 혁신적인 경험 제공"
+  },
+  {
+    "company_id": "COMP-00082",
+    "company_name": "이노베이션네트웍스",
+    "founded_date": "2001-04-06",
+    "industry_code": "J",
+    "industry_name": "정보통신업",
+    "company_size": "대기업",
+    "employees": 4275,
+    "annual_revenue": 3565350000000,
+    "total_assets": 5698029906820.281,
+    "total_capital": 3038438227312.8022,
+    "region": "전남",
+    "main_products": [
+      "데이터 분석 플랫폼",
+      "모바일 앱",
+      "AI 솔루션"
+    ],
+    "business_purpose": "이해관계자에게 맞춤형 가치 제공"
+  },
+  {
+    "company_id": "COMP-00083",
+    "company_name": "스마트인포",
+    "founded_date": "1996-04-07",
+    "industry_code": "J",
+    "industry_name": "정보통신업",
+    "company_size": "중견기업",
+    "employees": 486,
+    "annual_revenue": 152118000000,
+    "total_assets": 310664993414.54724,
+    "total_capital": 118420919647.69731,
+    "region": "경북",
+    "main_products": [
+      "보안 솔루션",
+      "클라우드 서비스",
+      "데이터 분석 플랫폼"
+    ],
+    "business_purpose": "고객에게 최고의 가치 제공"
+  },
+  {
+    "company_id": "COMP-00084",
+    "company_name": "시스템솔루션즈",
+    "founded_date": "2021-04-01",
+    "industry_code": "B",
+    "industry_name": "광업",
+    "company_size": "중소기업",
+    "employees": 162,
+    "annual_revenue": 23976000000,
+    "total_assets": 57628246939.33741,
+    "total_capital": 24417531240.47802,
+    "region": "충남",
+    "main_products": [
+      "시스템",
+      "서비스",
+      "관리 서비스"
+    ],
+    "business_purpose": "광업 분야의 경쟁력 있는 서비스 제공"
+  },
+  {
+    "company_id": "COMP-00085",
+    "company_name": "넥스트인포",
+    "founded_date": "2024-03-31",
+    "industry_code": "D",
+    "industry_name": "전기, 가스, 증기 및 공기 조절 공급업",
+    "company_size": "중소기업",
+    "employees": 89,
+    "annual_revenue": 19580000000,
+    "total_assets": 19671812134.998165,
+    "total_capital": 11323355868.657038,
+    "region": "서울",
+    "main_products": [
+      "플랫폼",
+      "서비스",
+      "관리 서비스"
+    ],
+    "business_purpose": "이해관계자에게 최적화된 솔루션 제공"
+  },
+  {
+    "company_id": "COMP-00086",
+    "company_name": "테크코리아",
+    "founded_date": "1997-04-07",
+    "industry_code": "F",
+    "industry_name": "건설업",
+    "company_size": "중소기업",
+    "employees": 235,
+    "annual_revenue": 30315000000,
+    "total_assets": 26016247228.145546,
+    "total_capital": 15566943538.148087,
+    "region": "대구",
+    "main_products": [
+      "서비스",
+      "플랫폼",
+      "솔루션"
+    ],
+    "business_purpose": "국내 내 특화된 제품 개발"
+  },
+  {
+    "company_id": "COMP-00087",
+    "company_name": "넥스트인포",
+    "founded_date": "2022-04-01",
+    "industry_code": "D",
+    "industry_name": "전기, 가스, 증기 및 공기 조절 공급업",
+    "company_size": "스타트업",
+    "employees": 12,
+    "annual_revenue": 2304000000,
+    "total_assets": 2939528159.4809995,
+    "total_capital": 1796201633.3514795,
+    "region": "부산",
+    "main_products": [
+      "서비스",
+      "시스템",
+      "관리 서비스"
+    ],
+    "business_purpose": "시장 내 차별화된 기술 개발"
+  },
+  {
+    "company_id": "COMP-00088",
+    "company_name": "이노베이션랩스",
+    "founded_date": "2016-04-02",
+    "industry_code": "E",
+    "industry_name": "수도, 하수 및 폐기물 처리, 원료 재생업",
+    "company_size": "중견기업",
+    "employees": 318,
+    "annual_revenue": 138012000000,
+    "total_assets": 255434539587.368,
+    "total_capital": 93878973443.5834,
+    "region": "전북",
+    "main_products": [
+      "플랫폼",
+      "솔루션",
+      "시스템"
+    ],
+    "business_purpose": "이해관계자에게 최고의 솔루션 제공"
+  },
+  {
+    "company_id": "COMP-00089",
+    "company_name": "이노베이션랩스",
+    "founded_date": "2003-04-06",
+    "industry_code": "J",
+    "industry_name": "정보통신업",
+    "company_size": "중견기업",
+    "employees": 351,
+    "annual_revenue": 163917000000,
+    "total_assets": 404911791510.9124,
+    "total_capital": 144020021996.64423,
+    "region": "서울",
+    "main_products": [
+      "클라우드 서비스",
+      "보안 솔루션",
+      "데이터 분석 플랫폼"
+    ],
+    "business_purpose": "고객에게 최적화된 가치 제공"
+  },
+  {
+    "company_id": "COMP-00090",
+    "company_name": "퓨처소프트",
+    "founded_date": "1995-04-08",
+    "industry_code": "E",
+    "industry_name": "수도, 하수 및 폐기물 처리, 원료 재생업",
+    "company_size": "중소기업",
+    "employees": 185,
+    "annual_revenue": 44215000000,
+    "total_assets": 79482981747.29924,
+    "total_capital": 47662811461.49184,
+    "region": "경북",
+    "main_products": [
+      "관리 서비스",
+      "서비스",
+      "시스템"
+    ],
+    "business_purpose": "수도, 하수 및 폐기물 처리, 원료 재생업 분야의 지속가능한 플랫폼 제공"
+  },
+  {
+    "company_id": "COMP-00091",
+    "company_name": "솔루션소프트",
+    "founded_date": "2009-04-04",
+    "industry_code": "D",
+    "industry_name": "전기, 가스, 증기 및 공기 조절 공급업",
+    "company_size": "스타트업",
+    "employees": 37,
+    "annual_revenue": 4847000000,
+    "total_assets": 5820611253.926725,
+    "total_capital": 3697081948.8022213,
+    "region": "충남",
+    "main_products": [
+      "서비스",
+      "컨설팅",
+      "관리 서비스"
+    ],
+    "business_purpose": "전기, 가스, 증기 및 공기 조절 공급업 분야의 고품질 서비스 제공"
+  },
+  {
+    "company_id": "COMP-00092",
+    "company_name": "퓨처파트너스",
+    "founded_date": "1997-04-07",
+    "industry_code": "F",
+    "industry_name": "건설업",
+    "company_size": "스타트업",
+    "employees": 19,
+    "annual_revenue": 3667000000,
+    "total_assets": 8013575131.293847,
+    "total_capital": 4475992990.566912,
+    "region": "대구",
+    "main_products": [
+      "컨설팅",
+      "솔루션",
+      "플랫폼"
+    ],
+    "business_purpose": "건설업 분야의 효율적인 제품 제공"
+  },
+  {
+    "company_id": "COMP-00093",
+    "company_name": "스마트인포",
+    "founded_date": "2018-04-02",
+    "industry_code": "F",
+    "industry_name": "건설업",
+    "company_size": "스타트업",
+    "employees": 16,
+    "annual_revenue": 1680000000,
+    "total_assets": 3312826739.0563936,
+    "total_capital": 2222823937.5449305,
+    "region": "충북",
+    "main_products": [
+      "서비스",
+      "솔루션",
+      "플랫폼"
+    ],
+    "business_purpose": "이해관계자에게 맞춤형 성과 제공"
+  },
+  {
+    "company_id": "COMP-00094",
+    "company_name": "테크솔루션즈",
+    "founded_date": "2013-04-03",
+    "industry_code": "C",
+    "industry_name": "제조업",
+    "company_size": "중견기업",
+    "employees": 538,
+    "annual_revenue": 125354000000,
+    "total_assets": 222512137758.3054,
+    "total_capital": 107658791333.32692,
+    "region": "대전",
+    "main_products": [
+      "전자 부품",
+      "스마트 센서",
+      "자동화 장비"
+    ],
+    "business_purpose": "고객에게 최고의 성과 제공"
+  },
+  {
+    "company_id": "COMP-00095",
+    "company_name": "시스템코리아",
+    "founded_date": "1999-04-07",
+    "industry_code": "G",
+    "industry_name": "도매 및 소매업",
+    "company_size": "중견기업",
+    "employees": 400,
+    "annual_revenue": 168400000000,
+    "total_assets": 308378775172.4128,
+    "total_capital": 178541626497.21887,
+    "region": "경북",
+    "main_products": [
+      "컨설팅",
+      "서비스",
+      "시스템"
+    ],
+    "business_purpose": "이해관계자에게 최고의 성과 제공"
+  },
+  {
+    "company_id": "COMP-00096",
+    "company_name": "이노베이션네트웍스",
+    "founded_date": "1995-04-08",
+    "industry_code": "F",
+    "industry_name": "건설업",
+    "company_size": "스타트업",
+    "employees": 13,
+    "annual_revenue": 1820000000,
+    "total_assets": 4255644988.820692,
+    "total_capital": 2952281675.936499,
+    "region": "전북",
+    "main_products": [
+      "시스템",
+      "플랫폼",
+      "서비스"
+    ],
+    "business_purpose": "건설업 분야의 경쟁력 있는 플랫폼 제공"
+  },
+  {
+    "company_id": "COMP-00097",
+    "company_name": "솔루션랩스",
+    "founded_date": "1996-04-07",
+    "industry_code": "A",
+    "industry_name": "농업, 임업 및 어업",
+    "company_size": "중소기업",
+    "employees": 148,
+    "annual_revenue": 27084000000,
+    "total_assets": 66906616538.16462,
+    "total_capital": 36131690476.823875,
+    "region": "전북",
+    "main_products": [
+      "관리 서비스",
+      "컨설팅",
+      "플랫폼"
+    ],
+    "business_purpose": "산업 내 특화된 솔루션 개발"
+  },
+  {
+    "company_id": "COMP-00098",
+    "company_name": "인포시스템즈",
+    "founded_date": "2020-04-01",
+    "industry_code": "B",
+    "industry_name": "광업",
+    "company_size": "중견기업",
+    "employees": 699,
+    "annual_revenue": 335520000000,
+    "total_assets": 357732321191.1824,
+    "total_capital": 240244309770.52905,
+    "region": "강원",
+    "main_products": [
+      "서비스",
+      "시스템",
+      "솔루션"
+    ],
+    "business_purpose": "파트너에게 최고의 경험 제공"
+  },
+  {
+    "company_id": "COMP-00099",
+    "company_name": "디지털파트너스",
+    "founded_date": "2024-03-31",
+    "industry_code": "D",
+    "industry_name": "전기, 가스, 증기 및 공기 조절 공급업",
+    "company_size": "스타트업",
+    "employees": 39,
+    "annual_revenue": 7410000000,
+    "total_assets": 12762663765.594517,
+    "total_capital": 7766143197.140444,
+    "region": "세종",
+    "main_products": [
+      "솔루션",
+      "컨설팅",
+      "관리 서비스"
+    ],
+    "business_purpose": "전기, 가스, 증기 및 공기 조절 공급업 분야의 지속가능한 제품 제공"
+  },
+  {
+    "company_id": "COMP-00100",
+    "company_name": "인포테크",
+    "founded_date": "2017-04-02",
+    "industry_code": "A",
+    "industry_name": "농업, 임업 및 어업",
+    "company_size": "스타트업",
+    "employees": 36,
+    "annual_revenue": 6408000000,
+    "total_assets": 8747419257.12318,
+    "total_capital": 4117023799.012705,
+    "region": "충남",
+    "main_products": [
+      "플랫폼",
+      "서비스",
+      "시스템"
+    ],
+    "business_purpose": "시장 내 혁신적 솔루션 개발"
+  },
+  {
+    "company_id": "COMP-00101",
+    "company_name": "솔루션인포",
+    "founded_date": "1998-04-07",
+    "industry_code": "K",
+    "industry_name": "금융 및 보험업",
+    "company_size": "중견기업",
+    "employees": 311,
+    "annual_revenue": 133419000000,
+    "total_assets": 267406645461.69055,
+    "total_capital": 159295162364.4374,
+    "region": "전북",
+    "main_products": [
+      "컨설팅",
+      "서비스",
+      "시스템"
+    ],
+    "business_purpose": "산업 내 특화된 제품 개발"
+  },
+  {
+    "company_id": "COMP-00102",
+    "company_name": "시스템코리아",
+    "founded_date": "2001-04-06",
+    "industry_code": "B",
+    "industry_name": "광업",
+    "company_size": "대기업",
+    "employees": 3989,
+    "annual_revenue": 3358738000000,
+    "total_assets": 3641080871416.841,
+    "total_capital": 1270314803864.6348,
+    "region": "서울",
+    "main_products": [
+      "컨설팅",
+      "서비스",
+      "솔루션"
+    ],
+    "business_purpose": "국내 내 차별화된 솔루션 개발"
+  },
+  {
+    "company_id": "COMP-00103",
+    "company_name": "스마트네트웍스",
+    "founded_date": "2009-04-04",
+    "industry_code": "A",
+    "industry_name": "농업, 임업 및 어업",
+    "company_size": "스타트업",
+    "employees": 12,
+    "annual_revenue": 1980000000,
+    "total_assets": 4351271490.761998,
+    "total_capital": 1628534116.8735883,
+    "region": "세종",
+    "main_products": [
+      "서비스",
+      "컨설팅",
+      "시스템"
+    ],
+    "business_purpose": "농업, 임업 및 어업 분야의 경쟁력 있는 솔루션 제공"
+  },
+  {
+    "company_id": "COMP-00104",
+    "company_name": "시스템소프트",
+    "founded_date": "1998-04-07",
+    "industry_code": "C",
+    "industry_name": "제조업",
+    "company_size": "대기업",
+    "employees": 6565,
+    "annual_revenue": 3604185000000,
+    "total_assets": 4367257915581.6895,
+    "total_capital": 1933037342493.691,
+    "region": "광주",
+    "main_products": [
+      "자동화 장비",
+      "측정 장비",
+      "제어 시스템"
+    ],
+    "business_purpose": "이해관계자에게 최적화된 가치 제공"
+  },
+  {
+    "company_id": "COMP-00105",
+    "company_name": "시스템파트너스",
+    "founded_date": "2017-04-02",
+    "industry_code": "D",
+    "industry_name": "전기, 가스, 증기 및 공기 조절 공급업",
+    "company_size": "중견기업",
+    "employees": 896,
+    "annual_revenue": 350336000000,
+    "total_assets": 543840282113.325,
+    "total_capital": 360646237519.04865,
+    "region": "대전",
+    "main_products": [
+      "컨설팅",
+      "플랫폼",
+      "시스템"
+    ],
+    "business_purpose": "글로벌 내 특화된 제품 개발"
+  },
+  {
+    "company_id": "COMP-00106",
+    "company_name": "이노베이션소프트",
+    "founded_date": "2023-04-01",
+    "industry_code": "C",
+    "industry_name": "제조업",
+    "company_size": "중견기업",
+    "employees": 650,
+    "annual_revenue": 254150000000,
+    "total_assets": 625079934843.414,
+    "total_capital": 289176238865.2023,
+    "region": "제주",
+    "main_products": [
+      "측정 장비",
+      "전자 부품",
+      "산업용 로봇"
+    ],
+    "business_purpose": "파트너에게 혁신적인 경험 제공"
+  },
+  {
+    "company_id": "COMP-00107",
+    "company_name": "넥스트코리아",
+    "founded_date": "2002-04-06",
+    "industry_code": "G",
+    "industry_name": "도매 및 소매업",
+    "company_size": "대기업",
+    "employees": 3743,
+    "annual_revenue": 2174683000000,
+    "total_assets": 3539468885113.108,
+    "total_capital": 1870659213574.1426,
+    "region": "서울",
+    "main_products": [
+      "서비스",
+      "솔루션",
+      "컨설팅"
+    ],
+    "business_purpose": "고객에게 최고의 성과 제공"
+  },
+  {
+    "company_id": "COMP-00108",
+    "company_name": "인포테크",
+    "founded_date": "2005-04-05",
+    "industry_code": "F",
+    "industry_name": "건설업",
+    "company_size": "중소기업",
+    "employees": 234,
+    "annual_revenue": 66690000000,
+    "total_assets": 148059744555.88602,
+    "total_capital": 64035314605.37944,
+    "region": "제주",
+    "main_products": [
+      "시스템",
+      "관리 서비스",
+      "서비스"
+    ],
+    "business_purpose": "글로벌 내 혁신적 서비스 개발"
+  },
+  {
+    "company_id": "COMP-00109",
+    "company_name": "인포인포",
+    "founded_date": "2013-04-03",
+    "industry_code": "D",
+    "industry_name": "전기, 가스, 증기 및 공기 조절 공급업",
+    "company_size": "중견기업",
+    "employees": 996,
+    "annual_revenue": 368520000000,
+    "total_assets": 877360281995.1779,
+    "total_capital": 423624381600.2006,
+    "region": "경기",
+    "main_products": [
+      "시스템",
+      "컨설팅",
+      "서비스"
+    ],
+    "business_purpose": "전기, 가스, 증기 및 공기 조절 공급업 분야의 고품질 제품 제공"
+  },
+  {
+    "company_id": "COMP-00110",
+    "company_name": "인포코리아",
+    "founded_date": "2018-04-02",
+    "industry_code": "E",
+    "industry_name": "수도, 하수 및 폐기물 처리, 원료 재생업",
+    "company_size": "스타트업",
+    "employees": 6,
+    "annual_revenue": 300000000,
+    "total_assets": 726510475.6593295,
+    "total_capital": 446850059.95040154,
+    "region": "전남",
+    "main_products": [
+      "관리 서비스",
+      "플랫폼",
+      "컨설팅"
+    ],
+    "business_purpose": "수도, 하수 및 폐기물 처리, 원료 재생업 분야의 혁신적인 솔루션 제공"
+  },
+  {
+    "company_id": "COMP-00111",
+    "company_name": "글로벌인포",
+    "founded_date": "2016-04-02",
+    "industry_code": "J",
+    "industry_name": "정보통신업",
+    "company_size": "스타트업",
+    "employees": 19,
+    "annual_revenue": 2907000000,
+    "total_assets": 3104398458.490466,
+    "total_capital": 1944387440.1559253,
+    "region": "경기",
+    "main_products": [
+      "데이터 분석 플랫폼",
+      "모바일 앱",
+      "AI 솔루션"
+    ],
+    "business_purpose": "이해관계자에게 최적화된 솔루션 제공"
+  },
+  {
+    "company_id": "COMP-00112",
+    "company_name": "퓨처그룹",
+    "founded_date": "1998-04-07",
+    "industry_code": "C",
+    "industry_name": "제조업",
+    "company_size": "대기업",
+    "employees": 9483,
+    "annual_revenue": 5680317000000,
+    "total_assets": 11078641904440.838,
+    "total_capital": 4484516927686.275,
+    "region": "경북",
+    "main_products": [
+      "산업용 로봇",
+      "스마트 센서",
+      "측정 장비"
+    ],
+    "business_purpose": "제조업 분야의 지속가능한 플랫폼 제공"
+  },
+  {
+    "company_id": "COMP-00113",
+    "company_name": "테크파트너스",
+    "founded_date": "2001-04-06",
+    "industry_code": "K",
+    "industry_name": "금융 및 보험업",
+    "company_size": "대기업",
+    "employees": 7277,
+    "annual_revenue": 3711270000000,
+    "total_assets": 4624350966467.581,
+    "total_capital": 1531568258690.154,
+    "region": "광주",
+    "main_products": [
+      "플랫폼",
+      "관리 서비스",
+      "시스템"
+    ],
+    "business_purpose": "이해관계자에게 최적화된 솔루션 제공"
+  },
+  {
+    "company_id": "COMP-00114",
+    "company_name": "디지털그룹",
+    "founded_date": "2020-04-01",
+    "industry_code": "M",
+    "industry_name": "전문, 과학 및 기술 서비스업",
+    "company_size": "중견기업",
+    "employees": 923,
+    "annual_revenue": 232596000000,
+    "total_assets": 523532734359.6464,
+    "total_capital": 211967934546.25833,
+    "region": "세종",
+    "main_products": [
+      "엔지니어링 설계",
+      "기술 검증 서비스",
+      "R&D 컨설팅"
+    ],
+    "business_purpose": "국내 내 선도적 기술 개발"
+  },
+  {
+    "company_id": "COMP-00115",
+    "company_name": "테크네트웍스",
+    "founded_date": "2023-04-01",
+    "industry_code": "B",
+    "industry_name": "광업",
+    "company_size": "대기업",
+    "employees": 2714,
+    "annual_revenue": 2534876000000,
+    "total_assets": 3902148212651.342,
+    "total_capital": 1394109415710.4355,
+    "region": "강원",
+    "main_products": [
+      "컨설팅",
+      "시스템",
+      "관리 서비스"
+    ],
+    "business_purpose": "산업 내 혁신적 서비스 개발"
+  },
+  {
+    "company_id": "COMP-00116",
+    "company_name": "테크소프트",
+    "founded_date": "2020-04-01",
+    "industry_code": "D",
+    "industry_name": "전기, 가스, 증기 및 공기 조절 공급업",
+    "company_size": "스타트업",
+    "employees": 32,
+    "annual_revenue": 1632000000,
+    "total_assets": 2792760732.04941,
+    "total_capital": 1584909848.3447719,
+    "region": "부산",
+    "main_products": [
+      "시스템",
+      "컨설팅",
+      "서비스"
+    ],
+    "business_purpose": "이해관계자에게 혁신적인 가치 제공"
+  },
+  {
+    "company_id": "COMP-00117",
+    "company_name": "인포인포",
+    "founded_date": "2010-04-04",
+    "industry_code": "D",
+    "industry_name": "전기, 가스, 증기 및 공기 조절 공급업",
+    "company_size": "중소기업",
+    "employees": 189,
+    "annual_revenue": 34398000000,
+    "total_assets": 62926725074.424484,
+    "total_capital": 32087678621.96141,
+    "region": "제주",
+    "main_products": [
+      "플랫폼",
+      "솔루션",
+      "관리 서비스"
+    ],
+    "business_purpose": "고객에게 최적화된 솔루션 제공"
+  },
+  {
+    "company_id": "COMP-00118",
+    "company_name": "넥스트테크",
+    "founded_date": "2020-04-01",
+    "industry_code": "K",
+    "industry_name": "금융 및 보험업",
+    "company_size": "중소기업",
+    "employees": 220,
+    "annual_revenue": 29040000000,
+    "total_assets": 48547451978.263824,
+    "total_capital": 33223891232.187187,
+    "region": "강원",
+    "main_products": [
+      "플랫폼",
+      "솔루션",
+      "서비스"
+    ],
+    "business_purpose": "국내 내 혁신적 기술 개발"
+  },
+  {
+    "company_id": "COMP-00119",
+    "company_name": "넥스트시스템즈",
+    "founded_date": "2015-04-03",
+    "industry_code": "B",
+    "industry_name": "광업",
+    "company_size": "스타트업",
+    "employees": 49,
+    "annual_revenue": 8918000000,
+    "total_assets": 18640894302.5878,
+    "total_capital": 6838214449.416947,
+    "region": "전남",
+    "main_products": [
+      "플랫폼",
+      "관리 서비스",
+      "컨설팅"
+    ],
+    "business_purpose": "광업 분야의 고품질 시스템 제공"
+  },
+  {
+    "company_id": "COMP-00120",
+    "company_name": "솔루션코리아",
+    "founded_date": "2022-04-01",
+    "industry_code": "D",
+    "industry_name": "전기, 가스, 증기 및 공기 조절 공급업",
+    "company_size": "대기업",
+    "employees": 8128,
+    "annual_revenue": 7030720000000,
+    "total_assets": 15572297133789.525,
+    "total_capital": 6004834999321.211,
+    "region": "충남",
+    "main_products": [
+      "관리 서비스",
+      "시스템",
+      "컨설팅"
+    ],
+    "business_purpose": "이해관계자에게 혁신적인 성과 제공"
+  },
+  {
+    "company_id": "COMP-00121",
+    "company_name": "이노베이션그룹",
+    "founded_date": "2002-04-06",
+    "industry_code": "A",
+    "industry_name": "농업, 임업 및 어업",
+    "company_size": "중소기업",
+    "employees": 154,
+    "annual_revenue": 15400000000,
+    "total_assets": 16143408606.302362,
+    "total_capital": 7230254977.728203,
+    "region": "충북",
+    "main_products": [
+      "솔루션",
+      "시스템",
+      "컨설팅"
+    ],
+    "business_purpose": "농업, 임업 및 어업 분야의 혁신적인 서비스 제공"
+  },
+  {
+    "company_id": "COMP-00122",
+    "company_name": "솔루션시스템즈",
+    "founded_date": "1995-04-08",
+    "industry_code": "M",
+    "industry_name": "전문, 과학 및 기술 서비스업",
+    "company_size": "스타트업",
+    "employees": 6,
+    "annual_revenue": 930000000,
+    "total_assets": 2167089381.19972,
+    "total_capital": 1341084705.6558414,
+    "region": "전남",
+    "main_products": [
+      "R&D 컨설팅",
+      "연구 개발 지원",
+      "엔지니어링 설계"
+    ],
+    "business_purpose": "파트너에게 혁신적인 솔루션 제공"
+  },
+  {
+    "company_id": "COMP-00123",
+    "company_name": "인포테크",
+    "founded_date": "2016-04-02",
+    "industry_code": "G",
+    "industry_name": "도매 및 소매업",
+    "company_size": "중견기업",
+    "employees": 475,
+    "annual_revenue": 161025000000,
+    "total_assets": 180011543564.14078,
+    "total_capital": 72250510711.81955,
+    "region": "경기",
+    "main_products": [
+      "시스템",
+      "서비스",
+      "관리 서비스"
+    ],
+    "business_purpose": "시장 내 차별화된 솔루션 개발"
+  },
+  {
+    "company_id": "COMP-00124",
+    "company_name": "퓨처솔루션즈",
+    "founded_date": "2010-04-04",
+    "industry_code": "J",
+    "industry_name": "정보통신업",
+    "company_size": "중견기업",
+    "employees": 995,
+    "annual_revenue": 440785000000,
+    "total_assets": 469539382541.7005,
+    "total_capital": 187780117072.92584,
+    "region": "충북",
+    "main_products": [
+      "IoT 플랫폼",
+      "AI 솔루션",
+      "모바일 앱"
+    ],
+    "business_purpose": "고객에게 최적화된 솔루션 제공"
+  },
+  {
+    "company_id": "COMP-00125",
+    "company_name": "시스템테크",
+    "founded_date": "2015-04-03",
+    "industry_code": "G",
+    "industry_name": "도매 및 소매업",
+    "company_size": "중견기업",
+    "employees": 493,
+    "annual_revenue": 106981000000,
+    "total_assets": 201192425284.52524,
+    "total_capital": 61042083856.69288,
+    "region": "대구",
+    "main_products": [
+      "플랫폼",
+      "솔루션",
+      "컨설팅"
+    ],
+    "business_purpose": "산업 내 선도적 솔루션 개발"
+  },
+  {
+    "company_id": "COMP-00126",
+    "company_name": "퓨처소프트",
+    "founded_date": "2001-04-06",
+    "industry_code": "F",
+    "industry_name": "건설업",
+    "company_size": "중소기업",
+    "employees": 219,
+    "annual_revenue": 61539000000,
+    "total_assets": 116767912526.10881,
+    "total_capital": 54251536586.13954,
+    "region": "서울",
+    "main_products": [
+      "시스템",
+      "서비스",
+      "플랫폼"
+    ],
+    "business_purpose": "건설업 분야의 고품질 솔루션 제공"
+  },
+  {
+    "company_id": "COMP-00127",
+    "company_name": "넥스트테크",
+    "founded_date": "2000-04-06",
+    "industry_code": "C",
+    "industry_name": "제조업",
+    "company_size": "대기업",
+    "employees": 7064,
+    "annual_revenue": 3602640000000,
+    "total_assets": 3314943560021.4185,
+    "total_capital": 1332711043416.1096,
+    "region": "대구",
+    "main_products": [
+      "전자 부품",
+      "측정 장비",
+      "제어 시스템"
+    ],
+    "business_purpose": "제조업 분야의 경쟁력 있는 제품 제공"
+  },
+  {
+    "company_id": "COMP-00128",
+    "company_name": "넥스트그룹",
+    "founded_date": "2013-04-03",
+    "industry_code": "E",
+    "industry_name": "수도, 하수 및 폐기물 처리, 원료 재생업",
+    "company_size": "스타트업",
+    "employees": 22,
+    "annual_revenue": 1958000000,
+    "total_assets": 3285895921.197207,
+    "total_capital": 1043571410.9178987,
+    "region": "인천",
+    "main_products": [
+      "컨설팅",
+      "플랫폼",
+      "솔루션"
+    ],
+    "business_purpose": "시장 내 특화된 서비스 개발"
+  },
+  {
+    "company_id": "COMP-00129",
+    "company_name": "넥스트코리아",
+    "founded_date": "1999-04-07",
+    "industry_code": "F",
+    "industry_name": "건설업",
+    "company_size": "중소기업",
+    "employees": 132,
+    "annual_revenue": 32736000000,
+    "total_assets": 26892222018.514156,
+    "total_capital": 8878163185.275877,
+    "region": "전남",
+    "main_products": [
+      "관리 서비스",
+      "서비스",
+      "컨설팅"
+    ],
+    "business_purpose": "건설업 분야의 효율적인 제품 제공"
+  },
+  {
+    "company_id": "COMP-00130",
+    "company_name": "퓨처네트웍스",
+    "founded_date": "2024-03-31",
+    "industry_code": "E",
+    "industry_name": "수도, 하수 및 폐기물 처리, 원료 재생업",
+    "company_size": "중소기업",
+    "employees": 145,
+    "annual_revenue": 36395000000,
+    "total_assets": 53177231558.27895,
+    "total_capital": 29632755133.767517,
+    "region": "충남",
+    "main_products": [
+      "컨설팅",
+      "관리 서비스",
+      "플랫폼"
+    ],
+    "business_purpose": "고객에게 최고의 경험 제공"
+  },
+  {
+    "company_id": "COMP-00131",
+    "company_name": "퓨처인포",
+    "founded_date": "2001-04-06",
+    "industry_code": "C",
+    "industry_name": "제조업",
+    "company_size": "스타트업",
+    "employees": 46,
+    "annual_revenue": 8694000000,
+    "total_assets": 9826549124.59295,
+    "total_capital": 3856947519.188353,
+    "region": "대구",
+    "main_products": [
+      "스마트 센서",
+      "제어 시스템",
+      "산업용 로봇"
+    ],
+    "business_purpose": "제조업 분야의 혁신적인 시스템 제공"
+  },
+  {
+    "company_id": "COMP-00132",
+    "company_name": "인포코리아",
+    "founded_date": "1995-04-08",
+    "industry_code": "E",
+    "industry_name": "수도, 하수 및 폐기물 처리, 원료 재생업",
+    "company_size": "중견기업",
+    "employees": 956,
+    "annual_revenue": 372840000000,
+    "total_assets": 766266160928.9196,
+    "total_capital": 303925848235.43256,
+    "region": "세종",
+    "main_products": [
+      "서비스",
+      "컨설팅",
+      "솔루션"
+    ],
+    "business_purpose": "수도, 하수 및 폐기물 처리, 원료 재생업 분야의 혁신적인 시스템 제공"
+  },
+  {
+    "company_id": "COMP-00133",
+    "company_name": "테크시스템즈",
+    "founded_date": "2013-04-03",
+    "industry_code": "G",
+    "industry_name": "도매 및 소매업",
+    "company_size": "대기업",
+    "employees": 1984,
+    "annual_revenue": 1741952000000,
+    "total_assets": 2250102261381.9624,
+    "total_capital": 1329232578683.7886,
+    "region": "대구",
+    "main_products": [
+      "관리 서비스",
+      "서비스",
+      "솔루션"
+    ],
+    "business_purpose": "파트너에게 최적화된 가치 제공"
+  },
+  {
+    "company_id": "COMP-00134",
+    "company_name": "글로벌시스템즈",
+    "founded_date": "1996-04-07",
+    "industry_code": "C",
+    "industry_name": "제조업",
+    "company_size": "중견기업",
+    "employees": 414,
+    "annual_revenue": 173052000000,
+    "total_assets": 305005634892.9874,
+    "total_capital": 196355019568.45615,
+    "region": "경기",
+    "main_products": [
+      "전자 부품",
+      "산업용 로봇",
+      "스마트 센서"
+    ],
+    "business_purpose": "글로벌 내 선도적 기술 개발"
+  },
+  {
+    "company_id": "COMP-00135",
+    "company_name": "디지털시스템즈",
+    "founded_date": "1995-04-08",
+    "industry_code": "M",
+    "industry_name": "전문, 과학 및 기술 서비스업",
+    "company_size": "대기업",
+    "employees": 8028,
+    "annual_revenue": 4712436000000,
+    "total_assets": 7871733617312.267,
+    "total_capital": 5474896171032.962,
+    "region": "제주",
+    "main_products": [
+      "기술 특허 서비스",
+      "기술 검증 서비스",
+      "R&D 컨설팅"
+    ],
+    "business_purpose": "이해관계자에게 맞춤형 성과 제공"
+  },
+  {
+    "company_id": "COMP-00136",
+    "company_name": "테크네트웍스",
+    "founded_date": "2024-03-31",
+    "industry_code": "K",
+    "industry_name": "금융 및 보험업",
+    "company_size": "대기업",
+    "employees": 8489,
+    "annual_revenue": 6587464000000,
+    "total_assets": 9755778155948.092,
+    "total_capital": 2984242317112.2534,
+    "region": "대구",
+    "main_products": [
+      "관리 서비스",
+      "시스템",
+      "서비스"
+    ],
+    "business_purpose": "금융 및 보험업 분야의 지속가능한 플랫폼 제공"
+  },
+  {
+    "company_id": "COMP-00137",
+    "company_name": "스마트파트너스",
+    "founded_date": "1998-04-07",
+    "industry_code": "M",
+    "industry_name": "전문, 과학 및 기술 서비스업",
+    "company_size": "중소기업",
+    "employees": 145,
+    "annual_revenue": 24795000000,
+    "total_assets": 45931068745.737946,
+    "total_capital": 22098596158.133236,
+    "region": "경기",
+    "main_products": [
+      "연구 개발 지원",
+      "엔지니어링 설계",
+      "기술 특허 서비스"
+    ],
+    "business_purpose": "시장 내 혁신적 기술 개발"
+  },
+  {
+    "company_id": "COMP-00138",
+    "company_name": "이노베이션소프트",
+    "founded_date": "1997-04-07",
+    "industry_code": "B",
+    "industry_name": "광업",
+    "company_size": "중소기업",
+    "employees": 125,
+    "annual_revenue": 26625000000,
+    "total_assets": 64727375428.93388,
+    "total_capital": 42238304804.41914,
+    "region": "전남",
+    "main_products": [
+      "관리 서비스",
+      "솔루션",
+      "서비스"
+    ],
+    "business_purpose": "국내 내 혁신적 제품 개발"
+  },
+  {
+    "company_id": "COMP-00139",
+    "company_name": "테크인포",
+    "founded_date": "2003-04-06",
+    "industry_code": "J",
+    "industry_name": "정보통신업",
+    "company_size": "대기업",
+    "employees": 9305,
+    "annual_revenue": 8048825000000,
+    "total_assets": 10500814551422.3,
+    "total_capital": 5563867438284.619,
+    "region": "경북",
+    "main_products": [
+      "보안 솔루션",
+      "AI 솔루션",
+      "IoT 플랫폼"
+    ],
+    "business_purpose": "국내 내 선도적 솔루션 개발"
+  },
+  {
+    "company_id": "COMP-00140",
+    "company_name": "퓨처테크",
+    "founded_date": "1996-04-07",
+    "industry_code": "M",
+    "industry_name": "전문, 과학 및 기술 서비스업",
+    "company_size": "중견기업",
+    "employees": 608,
+    "annual_revenue": 235296000000,
+    "total_assets": 451189050358.8731,
+    "total_capital": 230173067636.65936,
+    "region": "경기",
+    "main_products": [
+      "기술 특허 서비스",
+      "R&D 컨설팅",
+      "연구 개발 지원"
+    ],
+    "business_purpose": "고객에게 최고의 경험 제공"
+  },
+  {
+    "company_id": "COMP-00141",
+    "company_name": "이노베이션시스템즈",
+    "founded_date": "2008-04-04",
+    "industry_code": "E",
+    "industry_name": "수도, 하수 및 폐기물 처리, 원료 재생업",
+    "company_size": "스타트업",
+    "employees": 28,
+    "annual_revenue": 4788000000,
+    "total_assets": 6772450890.351763,
+    "total_capital": 2265402842.3536987,
+    "region": "울산",
+    "main_products": [
+      "컨설팅",
+      "관리 서비스",
+      "서비스"
+    ],
+    "business_purpose": "고객에게 최고의 가치 제공"
+  },
+  {
+    "company_id": "COMP-00142",
+    "company_name": "인포랩스",
+    "founded_date": "1996-04-07",
+    "industry_code": "J",
+    "industry_name": "정보통신업",
+    "company_size": "스타트업",
+    "employees": 23,
+    "annual_revenue": 3335000000,
+    "total_assets": 7238454942.764178,
+    "total_capital": 4376400038.428907,
+    "region": "강원",
+    "main_products": [
+      "클라우드 서비스",
+      "모바일 앱",
+      "IoT 플랫폼"
+    ],
+    "business_purpose": "산업 내 특화된 솔루션 개발"
+  },
+  {
+    "company_id": "COMP-00143",
+    "company_name": "스마트그룹",
+    "founded_date": "2011-04-04",
+    "industry_code": "M",
+    "industry_name": "전문, 과학 및 기술 서비스업",
+    "company_size": "중견기업",
+    "employees": 540,
+    "annual_revenue": 129600000000,
+    "total_assets": 300558520124.9555,
+    "total_capital": 165540890436.7755,
+    "region": "강원",
+    "main_products": [
+      "기술 특허 서비스",
+      "엔지니어링 설계",
+      "기술 검증 서비스"
+    ],
+    "business_purpose": "전문, 과학 및 기술 서비스업 분야의 고품질 서비스 제공"
+  },
+  {
+    "company_id": "COMP-00144",
+    "company_name": "스마트테크",
+    "founded_date": "2020-04-01",
+    "industry_code": "F",
+    "industry_name": "건설업",
+    "company_size": "중견기업",
+    "employees": 535,
+    "annual_revenue": 246635000000,
+    "total_assets": 235949688311.07346,
+    "total_capital": 118945547873.18385,
+    "region": "대구",
+    "main_products": [
+      "컨설팅",
+      "관리 서비스",
+      "솔루션"
+    ],
+    "business_purpose": "건설업 분야의 혁신적인 시스템 제공"
+  },
+  {
+    "company_id": "COMP-00145",
+    "company_name": "시스템랩스",
+    "founded_date": "2003-04-06",
+    "industry_code": "A",
+    "industry_name": "농업, 임업 및 어업",
+    "company_size": "스타트업",
+    "employees": 44,
+    "annual_revenue": 2596000000,
+    "total_assets": 5651969067.609483,
+    "total_capital": 2643408328.3131495,
+    "region": "서울",
+    "main_products": [
+      "시스템",
+      "서비스",
+      "컨설팅"
+    ],
+    "business_purpose": "농업, 임업 및 어업 분야의 효율적인 제품 제공"
+  },
+  {
+    "company_id": "COMP-00146",
+    "company_name": "인포그룹",
+    "founded_date": "2022-04-01",
+    "industry_code": "J",
+    "industry_name": "정보통신업",
+    "company_size": "중견기업",
+    "employees": 719,
+    "annual_revenue": 158899000000,
+    "total_assets": 183054222674.5151,
+    "total_capital": 84048063375.31647,
+    "region": "충북",
+    "main_products": [
+      "클라우드 서비스",
+      "IoT 플랫폼",
+      "데이터 분석 플랫폼"
+    ],
+    "business_purpose": "파트너에게 혁신적인 경험 제공"
+  },
+  {
+    "company_id": "COMP-00147",
+    "company_name": "이노베이션솔루션즈",
+    "founded_date": "2024-03-31",
+    "industry_code": "M",
+    "industry_name": "전문, 과학 및 기술 서비스업",
+    "company_size": "스타트업",
+    "employees": 48,
+    "annual_revenue": 2448000000,
+    "total_assets": 1987296380.3288856,
+    "total_capital": 1263463721.0309598,
+    "region": "대전",
+    "main_products": [
+      "엔지니어링 설계",
+      "기술 특허 서비스",
+      "연구 개발 지원"
+    ],
+    "business_purpose": "전문, 과학 및 기술 서비스업 분야의 경쟁력 있는 시스템 제공"
+  },
+  {
+    "company_id": "COMP-00148",
+    "company_name": "퓨처랩스",
+    "founded_date": "2008-04-04",
+    "industry_code": "D",
+    "industry_name": "전기, 가스, 증기 및 공기 조절 공급업",
+    "company_size": "대기업",
+    "employees": 4591,
+    "annual_revenue": 1707852000000,
+    "total_assets": 1799659989592.1746,
+    "total_capital": 1158421184861.8918,
+    "region": "인천",
+    "main_products": [
+      "시스템",
+      "관리 서비스",
+      "서비스"
+    ],
+    "business_purpose": "국내 내 차별화된 기술 개발"
+  },
+  {
+    "company_id": "COMP-00149",
+    "company_name": "시스템그룹",
+    "founded_date": "2001-04-06",
+    "industry_code": "F",
+    "industry_name": "건설업",
+    "company_size": "대기업",
+    "employees": 4433,
+    "annual_revenue": 1564849000000,
+    "total_assets": 2257216024099.418,
+    "total_capital": 822856000275.6942,
+    "region": "부산",
+    "main_products": [
+      "솔루션",
+      "컨설팅",
+      "서비스"
+    ],
+    "business_purpose": "건설업 분야의 고품질 제품 제공"
+  },
+  {
+    "company_id": "COMP-00150",
+    "company_name": "글로벌테크",
+    "founded_date": "2019-04-02",
+    "industry_code": "E",
+    "industry_name": "수도, 하수 및 폐기물 처리, 원료 재생업",
+    "company_size": "대기업",
+    "employees": 6977,
+    "annual_revenue": 5386244000000,
+    "total_assets": 11519914983472.645,
+    "total_capital": 6950336293719.009,
+    "region": "세종",
+    "main_products": [
+      "컨설팅",
+      "시스템",
+      "관리 서비스"
+    ],
+    "business_purpose": "수도, 하수 및 폐기물 처리, 원료 재생업 분야의 고품질 서비스 제공"
+  }
+]
